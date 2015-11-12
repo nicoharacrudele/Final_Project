@@ -82,15 +82,7 @@ employed to ensure appropriate use of code.
 
 ### Final Project Report Expectations
 * 2500 word written scientific report (not including the reference list nor figure Captions).
-* Must contain the following sections (in order):
-	a. Title
-	b. Abstract
-	c. Introduction
-	d. Methods (code should not be included, but instead a link to the Github repo must be provided)
-	e. Results
-	f. Discussion
-	g. References
-
+* Must contain the following sections (in order): i) Title, ii) Abstract, iii) Introduction, iv) Methods (code should not be included, but instead a link to the Github repo must be provided), v) Results, vi) Discussion, vii) References
 * Document can be written in Markdown, Laytex, Word or Pages.
 * The document should be technical, but clear enough that someone outside of your field 
 could read it (define all terms and acronyms).
